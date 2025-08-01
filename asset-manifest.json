@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/dino-test/static/css/main.92eda647.css",
-    "main.js": "/dino-test/static/js/main.a85ec876.js",
+    "main.js": "/dino-test/static/js/main.1c64c87f.js",
     "index.html": "/dino-test/index.html",
     "main.92eda647.css.map": "/dino-test/static/css/main.92eda647.css.map",
-    "main.a85ec876.js.map": "/dino-test/static/js/main.a85ec876.js.map"
+    "main.1c64c87f.js.map": "/dino-test/static/js/main.1c64c87f.js.map"
   },
   "entrypoints": [
     "static/css/main.92eda647.css",
-    "static/js/main.a85ec876.js"
+    "static/js/main.1c64c87f.js"
   ]
 }
