@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/dinoSchool/static/css/main.c4ec41b8.css",
-    "main.js": "/dinoSchool/static/js/main.17402b0f.js",
+    "main.css": "/dinoSchool/static/css/main.92eda647.css",
+    "main.js": "/dinoSchool/static/js/main.139d2405.js",
     "index.html": "/dinoSchool/index.html",
-    "main.c4ec41b8.css.map": "/dinoSchool/static/css/main.c4ec41b8.css.map",
-    "main.17402b0f.js.map": "/dinoSchool/static/js/main.17402b0f.js.map"
+    "main.92eda647.css.map": "/dinoSchool/static/css/main.92eda647.css.map",
+    "main.139d2405.js.map": "/dinoSchool/static/js/main.139d2405.js.map"
   },
   "entrypoints": [
-    "static/css/main.c4ec41b8.css",
-    "static/js/main.17402b0f.js"
+    "static/css/main.92eda647.css",
+    "static/js/main.139d2405.js"
   ]
 }
